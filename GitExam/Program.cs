@@ -1,3 +1,4 @@
+    Console.WriteLine("Welcome")
     Console.WriteLine("Enter the path to the folder:");
     string folderPath = Console.ReadLine();
 
